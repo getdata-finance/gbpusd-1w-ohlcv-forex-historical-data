@@ -1,6 +1,6 @@
 # GBPUSD 1w OHLCV Forex Historical Data — Free Sample
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-1_296_rows-blue)](https://getdata.finance/datasets/gbpusd) [![Updated](https://img.shields.io/badge/weekly_update-every_Saturday_8am_UTC-green)](https://getdata.finance) [![Full data on getdata.finance](https://img.shields.io/badge/download-getdata.finance-orange)](https://getdata.finance/datasets/gbpusd)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-1_297_rows-blue)](https://getdata.finance/datasets/gbpusd) [![Updated](https://img.shields.io/badge/weekly_update-every_Saturday_8am_UTC-green)](https://getdata.finance) [![Full data on getdata.finance](https://img.shields.io/badge/download-getdata.finance-orange)](https://getdata.finance/datasets/gbpusd)
 
 ### -> [**Download the full GBPUSD dataset on getdata.finance**](https://getdata.finance/datasets/gbpusd)
 
@@ -23,11 +23,11 @@
 
 - **Ultra high-quality 1w OHLCV** for **British Pound / US Dollar** (Forex)
 - **Clean CSV schema** — `datetime, open, high, low, close, volume` (no gaps in formatting)
-- **Free evaluation sample** on GitHub (`1w`) · **11 timeframes** on [getdata.finance](https://getdata.finance/datasets/gbpusd) · **1,296** `1w` rows in the full archive
+- **Free evaluation sample** on GitHub (`1w`) · **11 timeframes** on [getdata.finance](https://getdata.finance/datasets/gbpusd) · **1,297** `1w` rows in the full archive
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1w` sample updated in sync
 
-> **Sample on GitHub** · `GBPUSD_1w.csv` (106 rows, `2024-09-12` -> `2026-09-17`, 11.66 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/gbpusd)** — **1,296** `1w` rows (full `1m`: 9,171,581), **11 timeframes**, `2001-11-22` -> `2026-09-17`.
+> **Sample on GitHub** · `GBPUSD_1w.csv` (106 rows, `2024-09-19` -> `2026-09-24`, 11.60 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/gbpusd)** — **1,297** `1w` rows (full `1m`: 9,171,581), **11 timeframes**, `2001-11-22` -> `2026-09-24`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | British Pound / US Dollar · Forex | British Pound / US Dollar · Forex |
 | Timeframes | `1w` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1w rows | 106 | **1,296** |
-| Size | 11.66 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
-| Period | `2024-09-12` -> `2026-09-17` | `2001-11-22` -> `2026-09-17` |
+| 1w rows | 106 | **1,297** |
+| Size | 11.60 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
+| Period | `2024-09-19` -> `2026-09-24` | `2001-11-22` -> `2026-09-24` |
 | File | `GBPUSD_1w.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
 | Coverage report | — | [GBPUSD coverage](https://getdata.finance/coverage/gbpusd) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,21 +75,21 @@ First and latest rows from the GitHub sample **`GBPUSD_1w.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2024-09-12T00:00:00+00:00 | 1.30484 | 1.33063 | 1.30419 | 1.32119 | 1602987.72096 |
 | 2024-09-19T00:00:00+00:00 | 1.32119 | 1.34369 | 1.31626 | 1.3321 | 1880244.14983 |
 | 2024-09-26T00:00:00+00:00 | 1.3321 | 1.34415 | 1.32364 | 1.32623 | 1958479.65837 |
 | 2024-10-03T00:00:00+00:00 | 1.32623 | 1.32647 | 1.30483 | 1.3059 | 1790326.57244 |
 | 2024-10-10T00:00:00+00:00 | 1.3059 | 1.3114 | 1.29878 | 1.30018 | 1318250.01795 |
+| 2024-10-17T00:00:00+00:00 | 1.30018 | 1.30843 | 1.29191 | 1.29272 | 1257075.09587 |
 
 **Last rows**
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-20T00:00:00+00:00 | 1.35976 | 1.36735 | 1.35813 | 1.35962 | 1259214.06095 |
 | 2026-08-27T00:00:00+00:00 | 1.35962 | 1.36027 | 1.34745 | 1.34823 | 1258042 |
 | 2026-09-03T00:00:00+00:00 | 1.34823 | 1.35678 | 1.34803 | 1.35492 | 1254438 |
 | 2026-09-10T00:00:00+00:00 | 1.35492 | 1.35601 | 1.3371 | 1.33815 | 1711510 |
-| 2026-09-17T00:00:00+00:00 | 1.33815 | 1.34064 | 1.33214 | 1.33267 | 971062 |
+| 2026-09-17T00:00:00+00:00 | 1.33815 | 1.34064 | 1.32235 | 1.32376 | 1224416 |
+| 2026-09-24T00:00:00+00:00 | 1.32376 | 1.32635 | 1.32042 | 1.32432 | 563679 |
 
 ## Schema
 
@@ -154,7 +154,7 @@ print(pf.stats())
 
 ## Download full data
 
-The complete **GBPUSD** archive on **[getdata.finance](https://getdata.finance/datasets/gbpusd)** includes **11 OHLCV timeframes** (1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W) — **1,296** rows at `1w`, plus all other timeframes in the same ZIP.
+The complete **GBPUSD** archive on **[getdata.finance](https://getdata.finance/datasets/gbpusd)** includes **11 OHLCV timeframes** (1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W) — **1,297** rows at `1w`, plus all other timeframes in the same ZIP.
 
 **[-> Get the full GBPUSD dataset on getdata.finance](https://getdata.finance/datasets/gbpusd)**
 
